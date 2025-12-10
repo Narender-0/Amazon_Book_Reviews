@@ -36,7 +36,7 @@ Seaborn
 
 New features built include:
 
-Weighted rating (IMDB-style)
+Weighted rating
 
 Popularity score
 
