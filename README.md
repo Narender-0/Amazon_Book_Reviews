@@ -2,7 +2,7 @@
 
 This project analyzes Amazon book review data to determine the best-selling and top-performing books. By combining review ratings, review counts, and book metadata, the project builds a ranking system that highlights books with strong and consistent performance.
 
-1. Data Cleaning
+## 1. Data Cleaning
 
 Handling missing values
 
@@ -12,7 +12,7 @@ Removing duplicates
 
 Converting timestamps and datatype adjustments
 
-2. Exploratory Data Analysis (EDA)
+## 2. Exploratory Data Analysis (EDA)
 
 The analysis includes:
 
@@ -32,7 +32,7 @@ Matplotlib
 
 Seaborn
 
-3. Feature Engineering
+## 3. Feature Engineering
 
 New features built include:
 
@@ -44,8 +44,8 @@ Review intensity
 
 Adjusted ratings based on number of reviews
 
-4. Ranking Logic
-
+## 4. Ranking Logic
+ 
 A composite ranking score is computed using:
 
 Average rating
@@ -58,7 +58,7 @@ Metadata strengths
 
 This avoids bias toward books with few reviews.
 
-5. Final Output
+## 5. Final Output
 
 The project outputs:
 
